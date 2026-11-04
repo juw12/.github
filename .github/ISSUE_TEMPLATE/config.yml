@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/juw12
+    about: Please use the private "Report a vulnerability" button on the repository's Security tab instead of a public issue.
+  - name: Project landing pages
+    url: https://juw12.github.io/p/
+    about: Screenshots, setup steps and links for every project.
